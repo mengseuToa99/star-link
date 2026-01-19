@@ -29,7 +29,7 @@ const App: React.FC = () => {
           {/* Footer / Copyright (Optional but nice) */}
           <div className="mt-12 text-center">
              <p className="text-white/30 text-xs font-semibold tracking-widest uppercase">
-               © 2024 StarLink
+               {/* © 2024 StarLink */}
              </p>
           </div>
 
